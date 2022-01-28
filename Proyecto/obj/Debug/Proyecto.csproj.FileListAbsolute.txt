@@ -1,0 +1,87 @@
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\DBDATOS.db
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\EntityFramework.dll
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\FontAwesome.Sharp.dll
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\System.Data.SQLite.dll
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\EntityFramework.xml
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\System.Data.SQLite.xml
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.Form1.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmTipoInmueble.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmInmueble.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmTipoAlquiler.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmTipoMoneda.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmAlquiler.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.mdInmueble.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmResumen.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmHistorial.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\itextsharp.dll
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\itextsharp.xml
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.mdClausula.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmMisDatos.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.mdcambiarclave.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.Utilidades.mdCancelarContrato.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.mdEditarAlquiler.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmPagoAlquiler.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmPagoDeuda.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmHistorialPago.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmInicio.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.Login.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.mdAcercade.resources
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\Sistema de Alquiler Libre.exe.config
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\Sistema de Alquiler Libre.exe
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\bin\Debug\Sistema de Alquiler Libre.pdb
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Sistema de Alquiler Libre.exe
+D:\WorkSpaceAD\YOUTUBE\035_FUNCIONALIDAD SISTEMA ALQUILER INMUEBLES\ProyectoAlquiler\Proyecto\obj\Debug\Sistema de Alquiler Libre.pdb
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\DBDATOS.db
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\Sistema de Alquiler Libre.exe.config
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\Sistema de Alquiler Libre.exe
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\Sistema de Alquiler Libre.pdb
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\System.Data.SQLite.dll
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\bin\Debug\System.Data.SQLite.xml
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmHistorialPago.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmInicio.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmPagoAlquiler.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmPagoDeuda.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.mdAcercade.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.mdEditarAlquiler.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.Utilidades.mdCancelarContrato.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmAlquiler.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmHistorial.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmInmueble.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmMisDatos.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmResumen.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmTipoAlquiler.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmTipoInmueble.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.frmTipoMoneda.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.mdcambiarclave.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.mdClausula.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.mdInmueble.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Sistema de Alquiler Libre.exe
+C:\Users\Backup\Downloads\ProyectoAlquiler\Proyecto\obj\Debug\Sistema de Alquiler Libre.pdb
